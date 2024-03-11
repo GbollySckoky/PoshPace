@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 
-button{
+.btn{
     font-family: "Sarina", cursive;
     font-weight: 400;
     font-style: normal;

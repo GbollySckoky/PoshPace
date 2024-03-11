@@ -8,6 +8,8 @@ export default {
     extend: {
       colors:{
         darkblue:"#001F3F",
+        tomato:"#C02E48",
+        fadeblue:"#001F3F"
       }
     },
   },
