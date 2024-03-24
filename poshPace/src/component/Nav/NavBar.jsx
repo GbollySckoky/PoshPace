@@ -1,6 +1,8 @@
 import React from 'react'
 import {Link } from 'react-router-dom'
-
+import { filteredProduct } from '../../features/productsSlice'
+console.log(filteredProduct)
+import { useDispatch } from 'react-redux'
 
 const NavBar = () => {
     const navBars =[ 
@@ -12,7 +14,7 @@ const NavBar = () => {
     'Sale',
     'Sustainability',
 ]
-
+const dispatch = useDispatch()
     
   return (
     <div>
@@ -50,7 +52,12 @@ const NavBar = () => {
             {
                 navBars.map((nav, index) => (
                 <div className="px-[30px] text-sm text font-extralight" key={index}>
-                <button>{nav}</button>
+                    <Link to={`/FilteredProducts/${nav}`}>
+                        <button 
+                        onClick={() => dispatch(filteredProduct(nav))}
+                        >{nav}
+                        </button>
+                    </Link>
                 </div>
                 ))
             }
@@ -64,10 +71,6 @@ const NavBar = () => {
             className='bg-white text-center w-[50%] text-fadeblue py-5'
             >FREE WORLDWIDE DELIVERY
             </p>
-        </div>
-        <div className='py-[30px] bg-darkblue text-white text-center'>
-            <p className='text-lg font-bold pb-2'>UP TO 50% OFF FRESH FINDS</p>
-            <p className='text-sm font-extralight'>Members to get free delivery over every $30 and free returns</p>
         </div>
     </div>
   )

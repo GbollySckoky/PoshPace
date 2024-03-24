@@ -8,4 +8,13 @@
     font-weight: 400;
     font-style: normal;
   }
-  
+#tip > div{
+display: flex;
+align-items: center;
+padding-left: 60px;
+font-weight: 300;
+color: #001F3F;
+}
+#tips{
+  padding-left: 5px;
+}

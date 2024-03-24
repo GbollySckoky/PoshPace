@@ -1,29 +1,40 @@
 import React from 'react'
-import DummyData from '../../component/DummyData'
-import { nextSlide, prevSlide, dotSlide } from '../../Features/Slider/sliderSlice'
+import DummyData from '../DummyData'
+import { nextSlide, prevSlide, dotSlide } from '../../features/sliderSlice'
 import {useSelector, useDispatch} from 'react-redux'
-import { FaAngleRight } from "react-icons/fa";
+import { FaAngleRight } from "react-icons/fa"
 import { FaAngleLeft } from "react-icons/fa";
-
 
 const Posh = () => {
     const dispatch = useDispatch()
-    const currentSlide = useSelector((state) => state.slider.value);
+    const { value: currentSlide } = useSelector((state) => state.slider.value);
+    console.log(currentSlide);
+    
     const handleNextSlide = () => {
         dispatch(nextSlide(currentSlide +1));
+        console.log(currentSlide + 1)
       };
     
       const handlePrevSlide = () => {
         dispatch(prevSlide(currentSlide -1)); 
       };
+
     const handleDots = (index) => {
         dispatch(dotSlide(index));
     }
+
   return (
-    <div className='bg-red-900'>
-        <div className=''>
+    <div>
+        <div className='py-[30px] bg-darkblue text-white text-center'>
+            <p className='text-lg font-bold pb-2'>UP TO 50% OFF FRESH FINDS</p>
+            <p className='text-sm font-extralight'>Members to get free delivery over every $30 and free returns</p>
+        </div>
+        <div>
             {DummyData.map((product) => (
-                <div key={product.id} className={parseInt(product.id) ===  currentSlide ? 'opacity-100 duration-700 ease-in-out scale-100' : 'opacity-0 duration-700 ease-in-out scale-95'}>
+                <div 
+                key={product.id} className={parseInt(product.id) ===  currentSlide
+                ? 'opacity-100 duration-700 ease-in-out scale-100' 
+                : 'opacity-0 duration-700 ease-in-out scale-95'}>
                     <div>
                     {parseInt(product.id) ===  currentSlide && (
                         <img className='bg-black w-full h-[630px] bg-cover bg-center ' src={product.img} alt="" />
@@ -52,7 +63,7 @@ const Posh = () => {
         <div>
             <FaAngleLeft className='top-[65%]  text-2xl cursor-pointer absolute' onClick={handlePrevSlide}/>
             <FaAngleRight className='top-[65%] text-2xl  cursor-pointer absolute right-2' onClick={handleNextSlide}/>
-            </div>
+        </div>
     </div>
   )
 }

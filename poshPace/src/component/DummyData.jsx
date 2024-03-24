@@ -1,7 +1,6 @@
 import john from '../assets/john.jpg'
 import img3 from '../assets/img3.jpg'
 import img4 from '../assets/img4.jpg'
-import james from '../assets/james.jpg'
 import model from '../assets/model.jpg'
 
 const Products = [
