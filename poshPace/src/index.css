@@ -1,8 +1,11 @@
+@import url('https://fonts.cdnfonts.com/css/satoshi');                
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-
+body{
+  font-family: 'Satoshi', sans-serif;
+}
 .btn{
     font-family: "Sarina", cursive;
     font-weight: 400;

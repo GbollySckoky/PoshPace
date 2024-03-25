@@ -9,7 +9,8 @@ export default {
       colors:{
         darkblue:"#001F3F",
         tomato:"#C02E48",
-        fadeblue:"#001F3F"
+        fadeblue:"#001F3F",
+        fade:"#C6C6C6",
       }
     },
   },

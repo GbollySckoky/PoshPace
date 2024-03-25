@@ -1,0 +1,757 @@
+{
+    "products": [
+        {
+            "category":"Kids",
+           "color":[
+            "cream",
+            "black",
+            "gray"
+            ],
+            "id":2,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/01-02-24_S6_21_ZKSB160_Brown_RA_AA_11-01-45_68713_PXF_468x@2x.jpg?v=1707763438",
+            "https://www.fashionnova.com/cdn/shop/files/01-02-24_S6_21_ZKSB160_Brown_RA_AA_11-00-27_68699_PXF_468x@2x.jpg?v=1707763438",
+            "https://www.fashionnova.com/cdn/shop/files/01-02-24_S6_21_ZKSB160_Brown_RA_AA_11-03-02_68725_PXF_468x@2x.jpg?v=1707763438",
+            "https://www.fashionnova.com/cdn/shop/files/01-02-24_S6_21_ZKSB160_Brown_RA_AA_11-02-37_68719_PXF_468x@2x.jpg?v=1707763438"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/01-02-24_S6_21_ZKSB160_Brown_RA_AA_11-01-45_68713_PXF_468x@2x.jpg?v=1707763438",
+            "newPrice":25000,
+            "oldPrice":30000,
+            "productDetails":[
+            "Model Wears Size M",
+            "Imported",
+            "Available In Cream."
+            ],
+            "productName": " Graffiti Embroidered Fleece Jogger",
+            "productQuestion":"Product Details",
+            "size":[
+            "L",
+            "M",
+            "S"
+            ]
+        },
+        {
+            "category":"Men",
+            "color":"black",
+            "id":29,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/10-12-23Studio7_KF_DJ_11-20AM_46_DB64279_BlackWash_17213_CM_468x@2x.jpg?v=1697672218",
+            "https://www.fashionnova.com/cdn/shop/files/10-12-23Studio7_KF_DJ_11-20AM_46_DB64279_BlackWash_17214_CM_468x@2x.jpg?v=1697672218",
+            "https://www.fashionnova.com/cdn/shop/files/10-12-23Studio7_KF_DJ_11-20-13_46_DB64279_BlackWash_51773_CM_468x@2x.jpg?v=1697672219",
+            "https://www.fashionnova.com/cdn/shop/files/10-12-23Studio7_KF_DJ_11-20-21_46_DB64279_BlackWash_51777_CM_468x@2x.jpg?v=1697672218",
+            "https://www.fashionnova.com/cdn/shop/files/10-19-23Studio8_RA_IM_12-16-33_4_DB64279_BlackWash_P_20450_PLUS_MR_468x@2x.jpg?v=1698423976",
+            "https://www.fashionnova.com/cdn/shop/files/10-19-23Studio8_RA_IM_12-16-33_4_DB64279_BlackWash_P_20447_PLUS_MR_468x@2x.jpg?v=1698423975",
+            "https://www.fashionnova.com/cdn/shop/files/10-19-23Studio8_RA_IM_12-16-33_4_DB64279_BlackWash_P_20456_PLUS_MR_468x@2x.jpg?v=169842397",
+            "https://www.fashionnova.com/cdn/shop/files/10-19-23Studio8_RA_IM_12-16-33_4_DB64279_BlackWash_P_20452_PLUS_MR_468x@2x.jpg?v=1698423976"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/10-12-23Studio7_KF_DJ_11-20AM_46_DB64279_BlackWash_17213_CM_468x@2x.jpg?v=1697672218",
+            "newPrice":50000,
+            "oldPrice":80000,
+            "productDetails":[
+            "Available In Black Wash.",
+            "Stacked Slim Flare Fit",
+            "Stretch Denim",
+            "Distressed Detail",
+            "Disclaimer: Due To The Wash Process Each Garment Is Unique.",
+            "98% Cotton 2% Spandex",
+            "Imported"
+            ],
+            "productName":" Black Wash Jeans,",
+            "productQuestion":"Product Details",
+            "size":[
+            "XXL",
+            "XL",
+            "L"
+            ]
+        },
+        {
+            "category":"Kids",
+            "color":"pink",
+            "id":9,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/01-24-24_S6_14_JRK30146_Pink_TK_AA_08-52-26_40313_SG_468x@2x.jpg?v=1706910326",
+            "https://www.fashionnova.com/cdn/shop/files/01-24-24_S6_14_JRK30146_Pink_TK_AA_08-52-26_40316_SG_468x@2x.jpg?v=1706910326",
+            "https://www.fashionnova.com/cdn/shop/files/01-24-24_S6_14_JRK30146_Pink_TK_AA_08-52-26_40318_SG_468x@2x.jpg?v=1706640869",
+            "https://www.fashionnova.com/cdn/shop/files/01-24-24_S6_14_JRK30146_Pink_TK_AA_08-52-26_40321_SG_468x@2x.jpg?v=170664086"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/01-24-24_S6_14_JRK30146_Pink_TK_AA_08-52-26_40313_SG_468x@2x.jpg?v=1706910326",
+            "newPrice":25000,
+            "oldPrice":35000,
+            "productDetails":[
+            "Available In Pink.",
+            "Mini Skirt",
+            "Model Wears Size 10",
+            "80% Cotton/15% Polyester",
+            "Imported"
+            ],
+            "productName":"Mini Lily Cargo Mini Skirt - Pink",
+            "productQuestion":"Product Details",
+            "size":[
+            "L",
+            "M",
+            "S"
+            ]
+        },
+        {
+            "category":"Kids",
+            "color":[
+            "yellow",
+            "black"
+            ],
+            "id":3,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/11-30-23Studio6_RA_AA_11-12-20_26_SBSBHE4_Yellow_62659_CM_468x@2x.jpg?v=1701798474",
+            "https://www.fashionnova.com/cdn/shop/files/11-30-23Studio6_RA_AA_11-11-08_26_SBSBHE4_Yellow_62648_CM_468x@2x.jpg?v=1701798474",
+            "https://www.fashionnova.com/cdn/shop/files/11-30-23Studio6_RA_AA_11-13-12_26_SBSBHE4_Yellow_62674_CM_468x@2x.jpg?v=1701798474"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/11-30-23Studio6_RA_AA_11-12-20_26_SBSBHE4_Yellow_62659_CM_468x@2x.jpg?v=1701798474",
+            "newPrice":10000,
+            "oldPrice":20000,
+            "productDetails":[
+            "Available In Yellow.",
+            "Short Sleeve",
+            "Screen Print History Verbiage",
+            "Screen Print Design",
+            "Imported"
+            ],
+            "productName":" Spray Paint Short Set - Yellow",
+            "productQuestion":"Product Details",
+            "size":[
+            "L",
+            "M",
+            "S"
+            ]
+        },
+        {
+            "category":"Kids",
+            "color":[
+            "yellow",
+            "red",
+            "navy"
+            ],
+            "id":4,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/01-02-24_S6_15_PFW501626_Yellow_RA_AA_10-24-38_68496_PXF_468x@2x.jpg?v=1704498084",
+            "https://www.fashionnova.com/cdn/shop/files/01-02-24_S6_15_PFW501626_Yellow_RA_AA_10-24-08_68485_PXF_468x@2x.jpg?v=1704498084",
+            "https://www.fashionnova.com/cdn/shop/files/01-02-24_S6_15_PFW501626_Yellow_RA_AA_10-24-57_68502_PXF_468x@2x.jpg?v=1704498082"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/01-02-24_S6_15_PFW501626_Yellow_RA_AA_10-24-38_68496_PXF_468x@2x.jpg?v=1704498084",
+            "newPrice":15000,
+            "oldPrice":25000,
+            "productDetails":[
+            "Available In Khaki, Navy, Red, And Yellow.",
+            "Collar",
+            "Plaid",
+            "Front Pockets",
+            "Disclaimer: Plaid Placement Will Vary.",
+            "60% Cotton 40% Polyester",
+            "Imported"
+            ],
+            "productName":" Buffalo Plaid Woven - Yellow",
+            "productQuestion":"Product Details",
+            "size":[
+            "L",
+            "M",
+            "S"
+            ]
+        },
+        {
+            "category":"Men",
+            "color":"off white",
+            "id":22,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/products/12-07-22Studio5_RD_DJ_13-00-18_23_PNF001_OffWhite_7067_MH_468x@2x.jpg?v=1670627912",
+            "https://www.fashionnova.com/cdn/shop/products/05-03-22Studio2_SN_CP_14-38-59_85_PNF001_OffWhite_2507_PLUS_PB_468x@2x.jpg?v=1670627912",
+            "https://www.fashionnova.com/cdn/shop/products/12-07-22Studio5_RD_DJ_13-00-18_23_PNF001_OffWhite_7062_MH_468x@2x.jpg?v=1670627912",
+            "https://www.fashionnova.com/cdn/shop/products/12-07-22Studio5_RD_DJ_13-00-18_23_PNF001_OffWhite_7072_MH_468x@2x.jpg?v=1670627912",
+            "https://www.fashionnova.com/cdn/shop/products/05-03-22Studio2_SN_CP_14-38-56_85_PNF001_OffWhite_2505_PLUS_PB_468x@2x.jpg?v=1670627912",
+            "https://www.fashionnova.com/cdn/shop/products/05-03-22Studio2_SN_CP_14-39-03_85_PNF001_OffWhite_2509_PLUS_PB_468x@2x.jpg?v=1670627912"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/products/12-07-22Studio5_RD_DJ_13-00-18_23_PNF001_OffWhite_7067_MH_468x@2x.jpg?v=1670627912",
+            "newPrice":80000,
+            "oldPrice":100000,
+            "productDetails":"Cream is a warmer and slightly darker color than off-white. It has a yellow or beige undertone, which gives it a soft and warm appearance. Cream is often used to create a cozy and comfortable atmosphere, and it is often used in bedrooms, living rooms, and other areas where people want to relax",
+            "productName":"Button Up Shirt - Off White",
+            "productQuestion":"Product Details",
+            "size":[
+            "XL",
+            "L",
+            "M"
+            ]
+        },
+        {
+            "category":"Kids",
+            "color":"vintage wash",
+            "id":5,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/10-24-23Studio6_RA_AA_14-52-45_54_PFD709760_VintageWash_52122_SG_468x@2x.jpg?v=1702057147",
+            "https://www.fashionnova.com/cdn/shop/files/10-24-23Studio6_RA_AA_14-51-50_54_PFD709760_VintageWash_52113_SG_468x@2x.jpg?v=1702057147",
+            "https://www.fashionnova.com/cdn/shop/files/10-24-23Studio6_RA_AA_14-52-51_54_PFD709760_VintageWash_52124_SG_468x@2x.jpg?v=1698768911",
+            "https://www.fashionnova.com/cdn/shop/files/10-24-23Studio6_RA_AA_14-53-44_54_PFD709760_VintageWash_52127_SG_468x@2x.jpg?v=1698768911"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/10-24-23Studio6_RA_AA_14-52-45_54_PFD709760_VintageWash_52122_SG_468x@2x.jpg?v=1702057147",
+            "newPrice":20000,
+            "oldPrice":35000,
+            "productDetails":[
+            "Available In Vintage Wash.",
+            "5 Pocket",
+            "Skinny Jeans",
+            "83% Cotton 15% Polyester 2% Spandex",
+            "Button And Zipper Closure",
+            "Distressed"
+            ],
+            "productName":"Moto Rip And Repair Jeans ",
+            "size":[
+            "M",
+            "S",
+            "L"
+            ]
+        },
+        {
+            "category":"Men",
+            "color":"gold",
+            "id":17,
+            "images":"https://www.fashionnova.com/cdn/shop/files/11-30-23Studio7_CC_DJ_15-26-21_93_TNLD431999_Gold_0311_CM_468x@2x.jpg?v=1701721035",
+            "img":"https://www.fashionnova.com/cdn/shop/files/11-30-23Studio7_CC_DJ_15-26-21_93_TNLD431999_Gold_0311_CM_468x@2x.jpg?v=1701721035",
+            "newPrice":50000,
+            "productDetails":[
+            "Available In Gold.",
+            "18' Ball Chain With Pendant",
+            "Clasp Closure",
+            "Imported"
+            ],
+            "productName":" 2 Piece Chain Necklace - Gold",
+            "productQuestion":"Product Details"
+        },
+        {
+            "category":"Beauty",
+            "id":15,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/products/06-10-22Studio3_RT_16-14-28_1_Box1_22788_KL_468x@2x.jpg?v=1655948757",
+            "https://www.fashionnova.com/cdn/shop/products/06-21-22Studio4_SN_RL_15-33-11_26_NOVABEAUTY_3951_web_468x@2x.jpg?v=1655948757",
+            "https://www.fashionnova.com/cdn/shop/products/06-10-22Studio3_RT_16-14-28_1_Box1_22791_KL_KL_468x@2x.jpg?v=1655851920",
+            "https://www.fashionnova.com/cdn/shop/products/06-10-22Studio3_RT_16-14-28_1_Box1_22789_KL_468x@2x.jpg?v=1655851920",
+            "https://www.fashionnova.com/cdn/shop/products/07-20-21Studio2_SN_15-11-20_4_Creative_33591_KL_JF_02cdf7fa-0bec-4d09-88cb-a33b7fa50145_468x@2x.jpg?v=1655851920"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/products/06-10-22Studio3_RT_16-14-28_1_Box1_22788_KL_468x@2x.jpg?v=1655948757",
+            "newPrice":10000,
+            "oldPrice":20000,
+            "productName":"NOVABEAUTY Mile High Travel and Storage Case - Black",
+            "productQuestion":"Product Details",
+            "productDetails":"The NOVABEAUTY Mile High Travel and Storage Case is a travel and  storage solution to safely store all of your essentials from brushes, palettes, lipsticks, and more. The case, made  of textured Vegan Leather, is soft yet structured, and creates a sleek easy- to clean experience for a full glam touch-up on the go. Features six elastic slots that keep your brushes secure and protected when travelling . Makeup not included. Case is 6.5"
+        },
+        {
+            "category":"Men",
+            "id":18,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/02-02-24_S8_115_6058841_Silver_KT_DJ_11-19-02_42725_RB_468x@2x.jpg?v=1707247019",
+            "https://www.fashionnova.com/cdn/shop/files/01-30-24_S10_97_6058841_Silver_CXB_11-25-48_1837_ES_468x@2x.jpg?v=1708019011",
+            "https://www.fashionnova.com/cdn/shop/files/02-02-24_S8_115_6058841_Silver_KT_DJ_11-18-36_42723_RB_468x@2x.jpg?v=1707247019"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/02-02-24_S8_115_6058841_Silver_KT_DJ_11-19-02_42725_RB_468x@2x.jpg?v=1707247019",
+            "newPrice":80000,
+            "oldPrice":150000,
+            "productDetails":[
+            "Available In Silver.",
+            "18' Ball Chain With Pendant",
+            "Clasp Closure",
+            "Imported"
+            ],
+            "productName":"Cross Chain Necklace -Silver",
+            "productQuestion":"Product Details"
+        },
+        {
+            "category":"Kids",
+            "color":"pink",
+            "id":7,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/02-27-24_S6_22_SPDH3368K_Pink_TK_AA_10-27-16_105146_PXF_468x@2x.jpg?v=1709314610",
+            "https://www.fashionnova.com/cdn/shop/files/02-27-24_S6_22_SPDH3368K_Pink_TK_AA_10-27-49_105152_PXF_468x@2x.jpg?v=1709314610",
+            "https://www.fashionnova.com/cdn/shop/files/02-27-24_S6_22_SPDH3368K_Pink_TK_AA_10-27-06_105137_PXF_468x@2x.jpg?v=1709314610",
+            "https://www.fashionnova.com/cdn/shop/files/02-27-24_S6_22_SPDH3368K_Pink_TK_AA_10-27-46_105149_PXF_468x@2x.jpg?v=1709314610",
+            "https://www.fashionnova.com/cdn/shop/files/02-27-24_S6_22_SPDH3368K_Pink_TK_AA_10-26-48_105130_PXF_468x@2x.jpg?v=1709151892"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/02-27-24_S6_22_SPDH3368K_Pink_TK_AA_10-27-16_105146_PXF_468x@2x.jpg?v=1709314610",
+            "newPrice":20000,
+            "oldPrice":35000,
+            "productDetails":[
+            "Available In Pink.",
+            "Short Sleeve",
+            "Model Wears Size L",
+            "XS = 4/5 S = 6/6x M = 7/8 L = 10/12 XL = 14/16",
+            "100% Cotton",
+            "Imported"
+            ],
+            "productName":"Girl Short Sleeve Tee ",
+            "productQuestion":"Product Details",
+            "size":[
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS"
+            ]
+        },
+        {
+            "category":"Men",
+            "id":19,
+            "images":"https://www.fashionnova.com/cdn/shop/files/06-23-23STUDIO10_CXB_09-05-33_14_HBRS102_GoldGreen_3697_ES_468x@2x.jpg?v=1688595714",
+            "img":"https://www.fashionnova.com/cdn/shop/files/06-23-23STUDIO10_CXB_09-05-33_14_HBRS102_GoldGreen_3697_ES_468x@2x.jpg?v=1688595714",
+            "newPrice":200000,
+            "oldPrice":230000,
+            "productDetails":[
+            "8.5 Inch Adjustable",
+            "Available In Gold/Green.",
+            "Clover Pendants",
+            "Imported"
+            ],
+            "productName":" Clover Bracelet ",
+            "productQuestion":"Product Details",
+            "color":[
+                "green",
+                "black"
+            ]
+        },
+        {
+            "category":"Kids",
+            "color":[
+            "black",
+            "green",
+            "gray"
+            ],
+            "id":1,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/01-02-24_S6_6_VL20211_Black_RA_AA_08-49-17_68119_PXF_468x@2x.jpg?v=1704497561",
+            "https://www.fashionnova.com/cdn/shop/files/01-02-24_S6_6_VL20211_Black_RA_AA_08-48-35_68113_PXF_468x@2x.jpg?v=1704497561",
+            "https://www.fashionnova.com/cdn/shop/files/01-02-24_S6_6_VL20211_Black_RA_AA_08-49-46_68128_PXF_468x@2x.jpg?v=1704497558"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/01-02-24_S6_6_VL20211_Black_RA_AA_08-49-17_68119_PXF_468x@2x.jpg?v=1704497561",
+            "newPrice":15000,
+            "oldPrice":25000,
+            "productDetails":[
+            "Available in Black",
+            "Short Sleeve",
+            "Crew Neck",
+            "Screen Print History Verbiage",
+            "Screen Print Design",
+            "Model Wears Size M",
+            "100% Cotton",
+            "Imported"
+            ],
+            "productName":"Short Sleeve Tee - Black",
+            "productQuestion":"Product Details",
+            "size":[
+            "L",
+            "M",
+            "S"
+            ]
+        },
+        {
+            "category":"Kids",
+            "color":"charcoal",
+            "id":6,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/02-27-24_S6_8_P2522CQK_Charcoal_P_TK_AA_10-41-16_42547_PXF_468x@2x.jpg?v=1709149760",
+            "https://www.fashionnova.com/cdn/shop/files/02-27-24_S6_8_P2522CQK_Charcoal_P_TK_AA_10-41-16_42551_PXF_468x@2x.jpg?v=1709149761",
+            "https://www.fashionnova.com/cdn/shop/files/02-27-24_S6_8_P2522CQK_Charcoal_P_TK_AA_10-41-16_42557_PXF_468x@2x.jpg?v=1709149760"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/02-27-24_S6_8_P2522CQK_Charcoal_P_TK_AA_10-41-16_42547_PXF_468x@2x.jpg?v=1709149760",
+            "newPrice":20000,
+            "oldPrice":25000,
+            "productDetails":[
+            "Available In Charcoal.",
+            "Cargo Pant",
+            "Faux Leather",
+            "High Rise",
+            "Lining: 90% Cotton 10% Polyester",
+            "Imported"
+            ],
+            "productName":"Faux Leather Cargo Pant - Charcoal",
+            "productQuestion":"Product Details",
+            "size":[
+            "L",
+            "S"
+            ]
+        },
+        {
+            "category":"Men",
+            "color":[
+            "pink",
+            "black"
+            ],
+            "id":23,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/02-05-24_S7_82_5158_Pink_P_KT_DJ_14-43-29_31796_CM_468x@2x.jpg?v=1707865009",
+            "https://www.fashionnova.com/cdn/shop/files/02-05-24_S7_82_5158_Pink_P_KT_DJ_14-43-29_31791_CM_468x@2x.jpg?v=1707865009",
+            "https://www.fashionnova.com/cdn/shop/files/02-05-24_S7_82_5158_Pink_P_KT_DJ_14-43-29_31801_CM_468x@2x.jpg?v=1707865009",
+            "https://www.fashionnova.com/cdn/shop/files/02-05-24_S7_82_5158_Pink_P_KT_DJ_14-43-29_31803_CM_468x@2x.jpg?v=1707865007",
+            "https://www.fashionnova.com/cdn/shop/products/10-08-18_Studio_3_14-29-10_5158_Pink_0619_JF_468x@2x.jpg?v=1707865007",
+            "https://www.fashionnova.com/cdn/shop/products/10-08-18_Studio_3_14-29-21_5158_Pink_0626_JD_468x@2x.jpg?v=1707865007"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/02-05-24_S7_82_5158_Pink_P_KT_DJ_14-43-29_31796_CM_468x@2x.jpg?v=1707865009",
+            "newPrice":30000,
+            "oldPrice":50000,
+            "productDetails":"Cream is a warmer and slightly darker color than off-white. It has a yellow or beige undertone, which gives it a soft and warm appearance. Cream is often used to create a cozy and comfortable atmosphere, and it is often used in bedrooms, living rooms, and other areas where people want to relax",
+            "productName":"Wilson Short Sleeve Polo - Pink",
+            "productQuestion":"Product Details",
+            "size":[
+            "XL",
+            "L",
+            "M"
+            ]
+        },
+        {
+            "category":"Kids",
+            "color":"pink",
+            "id":10,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/11-20-23Studio6_RA_AA_09-43-52_9_JRK40140_Pink_60225_CM_468x@2x.jpg?v=1701114962",
+            "https://www.fashionnova.com/cdn/shop/files/11-20-23Studio6_RA_AA_09-43-15_9_JRK40140_Pink_60211_CM_468x@2x.jpg?v=1701114962",
+            "https://www.fashionnova.com/cdn/shop/files/11-20-23Studio6_RA_AA_09-44-40_9_JRK40140_Pink_60231_CM_468x@2x.jpg?v=1701114961",
+            "https://www.fashionnova.com/cdn/shop/files/11-20-23Studio6_RA_AA_09-45-22_9_JRK40140_Pink_60233_CM_468x@2x.jpg?v=1701114962"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/11-20-23Studio6_RA_AA_09-43-52_9_JRK40140_Pink_60225_CM_468x@2x.jpg?v=1701114962",
+            "newPrice":25000,
+            "oldPrice":35000,
+            "productDetails":[
+            "Available In Pink.",
+            "Denim Jacket",
+            "Cargo Pockets",
+            "Mommy & Me Takedown Of Billie Cropped Cargo Jacket",
+            "Disclaimer: Due To The Specialized Wash Process, Each Garment Is Unique.",
+            "Imported"
+            ],
+            "productName":"Mini Billie Cargo Jacket - Pink",
+            "productQuestion":"Product Details",
+            "size":[
+            "L",
+            "M",
+            "S",
+            "XS"
+            ]
+        },
+        {
+            "category":"Beauty",
+            "id":14,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/NOVABEAUTYMoisturizingRichGlowLipGloss-Tea_468x@2x.jpg?v=1691626305",
+            "https://www.fashionnova.com/cdn/shop/products/08-18-21Studio4_SN_11-41-21_10_TEA_1645_KL_KL_468x@2x.jpg?v=1691626318",
+            "https://www.fashionnova.com/cdn/shop/products/01-27-22_TEA_SWATCH_web_468x@2x.jpg?v=1691626318"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/NOVABEAUTYMoisturizingRichGlowLipGloss-Tea_468x@2x.jpg?v=1691626305",
+            "newPrice":5000,
+            "oldPrice":8000,
+            "productDetails":"The NOVABEAUTY Mile High Travel and Storage Case is a travel and  storage solution to safely store all of your essentials from brushes, palettes, lipsticks, and more. The case, made  of textured Vegan Leather, is soft yet structured, and creates a sleek easy- to clean experience for a full glam touch-up on the go. Features six elastic slots that keep your brushes secure and protected when travelling . Makeup not included. Case is 6.5",
+            "productName":" Rich Glow Lip Gloss - Tea",
+            "productQuestion":"Product Details"
+        },
+        {
+            "category":"Men",
+            "color":"black",
+            "id":16,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/06-16-23Studio10_CXB_08-10-26_8_LH0272_Black_P_ES_468x@2x.jpg?v=1687997626",
+            "https://www.fashionnova.com/cdn/shop/files/06-16-23Studio10_CXB_08-10-26_8_LH0272_Black_P2_ES_468x@2x.jpg?v=1687997626"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/06-16-23Studio10_CXB_08-10-26_8_LH0272_Black_P_ES_468x@2x.jpg?v=1687997626",
+            "newPrice":100000,
+            "oldPrice":170000,
+            "productDetails":"Available in Black",
+            "productName":"Stay Elevated Dress Shoes - Black",
+            "productQuestion":"Product Details",
+            "size":[
+            "XL",
+            "L",
+            "M",
+            "S"
+            ]
+        },
+        {
+            "category":"Kids",
+            "color":"black",
+            "id":8,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/01-24-24_S6_26_JRK30146_DarkWash_TK_AA_12-58-12_40386_SG_468x@2x.jpg?v=1706646926",
+            "https://www.fashionnova.com/cdn/shop/files/01-24-24_S6_26_JRK30146_DarkWash_TK_AA_12-58-12_40388_SG_468x@2x.jpg?v=1706646932",
+            "https://www.fashionnova.com/cdn/shop/files/01-24-24_S6_26_JRK30146_DarkWash_TK_AA_12-58-12_40387_SG_468x@2x.jpg?v=1706646932",
+            "https://www.fashionnova.com/cdn/shop/files/01-24-24_S6_26_JRK30146_DarkWash_TK_AA_12-58-12_40389_SG_468x@2x.jpg?v=1706646927"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/01-24-24_S6_26_JRK30146_DarkWash_TK_AA_12-58-12_40386_SG_468x@2x.jpg?v=1706646926",
+            "newPrice":10000,
+            "oldPrice":20000,
+            "productDetails":[
+            "Available In Dark Wash.",
+            "Button Exposure",
+            "Mini Skirt",
+            "Model Wears Size 10",
+            "60% Cotton/ 20% Polyester/20% Rayon",
+            "Imported"
+            ],
+            "productName":" Cargo Mini Skirt - Dark Wash",
+            "productQuestion":"Product Details",
+            "size":[
+            "L",
+            "M",
+            "S"
+            ]
+        },
+        {
+            "category":"Men",
+            "color":"off white",
+            "id":26,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/12-29-22Studio5_KJ_SR_11-50-23_39_NSKT4509_OffWhite_1264_ES_468x@2x.jpg?v=1701713767",
+            "https://www.fashionnova.com/cdn/shop/files/12-29-22Studio5_KJ_SR_11-50-08_39_NSKT4509_OffWhite_1259_ES_468x@2x.jpg?v=1697481223",
+            "https://www.fashionnova.com/cdn/shop/files/12-29-22Studio5_KJ_SR_11-50-29_39_NSKT4509_OffWhite_1265_ES_468x@2x.jpg?v=1697481223",
+            "https://www.fashionnova.com/cdn/shop/files/12-29-22Studio5_KJ_SR_11-50-48_39_NSKT4509_OffWhite_1271_ES_468x@2x.jpg?v=1697481223",
+            "https://www.fashionnova.com/cdn/shop/files/01-04-23Studio5_KJ_DJ_09-35-16_2_NSKT4509_OffWhite_3619_PLUS_SG_468x@2x.jpg?v=1697481223",
+            "https://www.fashionnova.com/cdn/shop/files/01-04-23Studio5_KJ_DJ_09-34-56_2_NSKT4509_OffWhite_3610_PLUS_SG_468x@2x.jpg?v=1697481223",
+            "https://www.fashionnova.com/cdn/shop/files/01-04-23Studio5_KJ_DJ_09-35-39_2_NSKT4509_OffWhite_3630_PLUS_SG_468x@2x.jpg?v=1697481223"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/12-29-22Studio5_KJ_SR_11-50-23_39_NSKT4509_OffWhite_1264_ES_468x@2x.jpg?v=1701713767",
+            "newPrice":200000,
+            "oldPrice":300000,
+            "productDetails":"Product Details",
+            "productName":"Short Sleeve Cuban Shirt - Off White",
+            "productQuestion":"Product Details",
+            "size":"offwhite"
+        },
+        {
+            "category":"Men",
+            "color":"chocolate",
+            "id":24,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/products/03-17-23Studio7_BN_DJ_15-26-06_82_ZDF01N310023_Taupe_R_15139_DQ_468x@2x.jpg?v=1679501917",
+            "https://www.fashionnova.com/cdn/shop/products/03-17-23Studio7_BN_DJ_15-26-06_82_ZDF01N310023_Taupe_R_15174_DQ_468x@2x.jpg?v=1679501917",
+            "https://www.fashionnova.com/cdn/shop/products/02-02-23Studio6_CE_CM_15-09-03_4_ZDF01N310023_Taupe_1833_ES_468x@2x.jpg?v=1679501917"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/products/03-17-23Studio7_BN_DJ_15-26-06_82_ZDF01N310023_Taupe_R_15139_DQ_468x@2x.jpg?v=1679501917",
+            "newPrice":15000,
+            "oldPrice":20000,
+            "productDetails":[
+            "Model Height: 62 - Wearing Large",
+            "Available In Brown.",
+            "Logo On Waistband",
+            "Elastic Waistband",
+            " High Quality Fabrication With Super Soft Hand-Feel"
+            ],
+            "productName":"Novamen Modal Boxer Brief - Taupe",
+            "productQuestion":"Product Details",
+            "size":[
+            "XL",
+            "L",
+            "M"
+            ]
+        },
+        {
+            "category":"Men",
+            "color":"cream",
+            "id ":20,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/products/10-04-22Studio5_KJ_DJ_09-41-26_1_FNMK144_Chestnut_P_3389_JB_468x@2x.jpg?v=1664916046",
+            "https://www.fashionnova.com/cdn/shop/products/10-04-22Studio5_KJ_DJ_09-41-26_1_FNMK144_Chestnut_P_3384_JB_468x@2x.jpg?v=1665007560",
+            "https://www.fashionnova.com/cdn/shop/products/10-04-22Studio5_KJ_DJ_09-41-26_1_FNMK144_Chestnut_P_3390_JB_468x@2x.jpg?v=1665007560",
+            "https://www.fashionnova.com/cdn/shop/products/10-05-22Studio1_RD_CC_10-33-38_26_FNMK144_Chestnut_8271_PLUS_ES_468x@2x.jpg?v=1665007560",
+            "https://www.fashionnova.com/cdn/shop/products/10-05-22Studio1_RD_CC_10-33-28_26_FNMK144_Chestnut_8269_PLUS_ES_468x@2x.jpg?v=1665007074",
+            "https://www.fashionnova.com/cdn/shop/products/10-05-22Studio1_RD_CC_10-33-51_26_FNMK144_Chestnut_8277_PLUS_ES_468x@2x.jpg?v=1665007072"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/products/10-04-22Studio5_KJ_DJ_09-41-26_1_FNMK144_Chestnut_P_3389_JB_468x@2x.jpg?v=1664916046",
+            "newPrice":15000,
+            "oldPrice":20000,
+            "productDetails":[
+            "Model Height: 6'1 Wearing Large",
+            "Big & Tall: Height 6'3 - Wearing XXXL",
+            "Shell 65% Polyester 33% Viscose 2% Spandex",
+            "Lining 100% Polyester",
+            "Front Pockets",
+            "Imported"
+            ],
+            "productQuestion":"Product Details",
+            "size":[
+            "XXXL",
+            "XXL",
+            "XL",
+            "L"
+            ]
+        },
+        {
+            "category":"Men",
+            "color":"brown",
+            "id":25,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/products/03-17-23Studio7_BN_DJ_15-09-57_81_ZDF01N310023_Chocolate_R_8104_MP_468x@2x.jpg?v=1679444471",
+            "https://www.fashionnova.com/cdn/shop/products/03-17-23Studio7_BN_DJ_15-08-08_81_ZDF01N310023_Chocolate_R_8063_MP_468x@2x.jpg?v=1679444471",
+            "https://www.fashionnova.com/cdn/shop/products/03-17-23Studio7_BN_DJ_15-09-16_81_ZDF01N310023_Chocolate_R_8082_MP_468x@2x.jpg?v=1679444471",
+            "https://www.fashionnova.com/cdn/shop/products/01-10-23Studio5_RT_SR_12-53-01_12_ZDF01N310023_Chocolate_7145_SG_468x@2x.jpg?v=1679444471",
+            "https://www.fashionnova.com/cdn/shop/files/09-01-23Studio8_CB_AP_14-38-48_90_ZDF01N310023_Chocolate_P_2708_PLUS_CM_468x@2x.jpg?v=1694041357",
+            "https://www.fashionnova.com/cdn/shop/files/09-01-23Studio8_CB_AP_14-39-26_90_ZDF01N310023_Chocolate_P_2711_PLUS_CM_468x@2x.jpg?v=169404135"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/products/03-17-23Studio7_BN_DJ_15-09-57_81_ZDF01N310023_Chocolate_R_8104_MP_468x@2x.jpg?v=1679444471",
+            "newPrice":10000,
+            "oldPrice":20000,
+            "productDetails":[
+            "Model Height: 6'2 - Wearing Large",
+            "Elastic Waistband",
+            "Logo On Waistband",
+            "High Quality Fabrication With Super Soft Hand-Feel",
+            "92% Micro Modal, 8% Elastane",
+            "Imported"
+            ],
+            "productName":" Boxer Brief - Chocolate",
+            "productQuestion":"Product Details",
+            "size":[
+            "XL",
+            "L",
+            "M"
+            ]
+        },
+        {
+            "category":"Men",
+            "color":"charcoal",
+            "id":28,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/products/12-30-22Studio5_RT_SR_11-32-43_38_NMKT40418_Charcoal_R_2214_JB_468x@2x.jpg?v=1672792215",
+            "https://www.fashionnova.com/cdn/shop/products/09-19-18_Studio_3_09-26-11_NMKT40418_Charcoal_0511_AJ_468x@2x.jpg?v=1672792215",
+            "https://www.fashionnova.com/cdn/shop/products/12-30-22Studio5_RT_SR_11-31-02_38_NMKT40418_Charcoal_R_2207_JB_468x@2x.jpg?v=1672792215",
+            "https://www.fashionnova.com/cdn/shop/products/12-30-22Studio5_RT_SR_11-31-34_38_NMKT40418_Charcoal_R_2211_JB_468x@2x.jpg?v=1672792215",
+            "https://www.fashionnova.com/cdn/shop/products/09-19-18_Studio_3_09-26-05_NMKT40418_Charcoal_0508_AJ_WG_PLUS_468x@2x.jpg?v=1672792215",
+            "https://www.fashionnova.com/cdn/shop/products/09-19-18_Studio_3_09-26-59_NMKT40418_Charcoal_0524_AJ_468x@2x.jpg?v=1672792215",
+            "https://www.fashionnova.com/cdn/shop/products/09-19-18_Studio_3_09-27-09_NMKT40418_Charcoal_0527_AJ_WG_PLUS_468x@2x.jpg?v=1672792215",
+            "https://www.fashionnova.com/cdn/shop/products/09-19-18_Studio_3_09-27-21_NMKT40418_Charcoal_0532_AJ_WG_PLUS_30048f5b-57df-4dc2-a066-d766f752b55d_468x@2x.jpg?v=1672792215",
+            "https://www.fashionnova.com/cdn/shop/products/09-19-18_Studio_3_09-27-21_NMKT40418_Charcoal_0532_AJ_WG_PLUS_468x@2x.jpg?v=1672792215"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/products/12-30-22Studio5_RT_SR_11-32-43_38_NMKT40418_Charcoal_R_2214_JB_468x@2x.jpg?v=1672792215",
+            "newPrice":150000,
+            "oldPrice":200000,
+            "productDetails":[
+            "Model Height: 6'1 Wearing Large",
+            "Big & Tall: Height 6'3 - Wearing XXXL",
+            "60% Cotton, 40% Polyester"
+            ],
+            "productName":"Tyson Hoodie - Charcoal",
+            "productQuestion":"Product Details",
+            "size":[
+            "XXL",
+            "XL",
+            "L",
+            "M"
+            ]
+        },
+        {
+            "category":"Men",
+            "color":[
+            "green",
+            "black"
+            ],
+            "id":21,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/06-16-23Studio7_DJ_RD_1-04PM_39_FNMK144_Hunter_11500_CM_468x@2x.jpg?v=1687543278",
+            "https://www.fashionnova.com/cdn/shop/files/06-16-23Studio7_DJ_RD_1-04PM_39_FNMK144_Hunter_11487_CM_468x@2x.jpg?v=1687543278",
+            "https://www.fashionnova.com/cdn/shop/files/06-16-23Studio7_DJ_RD_1-04PM_39_FNMK144_Hunter_11501_CM_468x@2x.jpg?v=1687543278",
+            "https://www.fashionnova.com/cdn/shop/files/06-12-23Studio8_KF_AP_10-02-04_16_FNMK144_Hunter_14501_PLUS_DQ_468x@2x.jpg?v=1687543278",
+            "https://www.fashionnova.com/cdn/shop/files/06-12-23Studio8_KF_AP_10-02-56_16_FNMK144_Hunter_14522_PLUS_DQ_468x@2x.jpg?v=1687543278"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/06-16-23Studio7_DJ_RD_1-04PM_39_FNMK144_Hunter_11500_CM_468x@2x.jpg?v=1687543278",
+            "newPrice":2500,
+            "oldprice":5000,
+            "productDetails":[
+            "Available In Hunter.",
+            "Pointed Lapels",
+            "Button Front",
+            "Pair with The Modern Stretch Slim Trouser",
+            "Shell 65% Polyester 33% Viscose 2% Spandex Lining 100% Polyester",
+            "Imported"
+            ],
+            "productName":" Stretch Suit Jacket - Hunter",
+            "productQuestio":"Product Details",
+            "size":[
+            "XL",
+            "L",
+            "M"
+            ]
+        },
+        {
+            "category":"Beauty",
+            "id":11,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/products/03-10-22Studio5_SN_13-41-21_18_NUDE01_0485_web_468x@2x.jpg?v=1655765482",
+            "https://www.fashionnova.com/cdn/shop/products/08-18-21Studio4_SN_15-46-33_10_BNLL002_NUDE01_5261_web_468x@2x.jpg?v=1655765482",
+            "https://www.fashionnova.com/cdn/shop/products/12-13-21_LIP_LINER_web_1c1af6e2-139a-4a3b-b783-c2de63b21ecf_468x@2x.jpg?v=1682640876",
+            "https://www.fashionnova.com/cdn/shop/products/03-10-22Studio5_SN_13-43-38_18_NUDE01_0492_web_468x@2x.jpg?v=1682640876",
+            "https://www.fashionnova.com/cdn/shop/products/01-27-22_NUDE01_SWATCH_web_468x@2x.jpg?v=1682640876"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/products/03-10-22Studio5_SN_13-41-21_18_NUDE01_0485_web_468x@2x.jpg?v=1655765482",
+            "newPrice":5000,
+            "oldPrice":10000,
+            "productDetails":"The days of sharpening your lipliner are over! Featuring a retractable precision diamond tip, the exclusive 2-in-1 Snatched Lip Liner is designed to give you a perfectly sculpted kissable pout. The liner comes with an attached oval precision brush that is ideal for blending and smoothing out all fine lines to create a clean airbrushed look. Define your lips using light pressure for a contoured matte finish and use the oval brush to blend inward to create a lip base coat. Available in 10 cruelty-free vegan shades.",
+            "productName":"NOVABEAUTY 2 in 1 Snatched Lip Liner - Nude 01",
+            "productQuestion":"Product Details"
+        },
+        {
+            "category":"Beauty",
+            "id":13,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/NOVABEAUTYPerfectPoutMoisturizingMatteLipstick-Tone_468x@2x.jpg?v=1685057532",
+            "https://www.fashionnova.com/cdn/shop/products/TONE_LIGHT2_468x@2x.jpg?v=1685057532",
+            "https://www.fashionnova.com/cdn/shop/products/TONE_DARK2_468x@2x.jpg?v=1685057532",
+            "https://www.fashionnova.com/cdn/shop/products/01-27-22_TONE_SWATCH_web_468x@2x.jpg?v=1687545023"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/NOVABEAUTYPerfectPoutMoisturizingMatteLipstick-Tone_468x@2x.jpg?v=1685057532",
+            "newPrice":20000,
+            "oldPrice":30000,
+            "productDetails":"With an advanced hydrating formula containing Vitamin E and silk oils, NOVABEAUTY Moisturizing Matte Lipstick will leave your pout feeling smooth and nourished. Achieve a velvet finish with a high color payoff and even coverage with just one application. Available in 6 cruelty-free vegan neutral shades, you'll finally find your perfect nude!",
+            "productName":" NOVABEAUTY Perfect Pout Moisturizing Matte Lipstick - Tone",
+            "productQuestion":"NOVABEAUTY Perfect Pout Moisturizing Matte Lipstick - Tone"
+        },
+        {
+            "category":"Men",
+            "color":"brown",
+            "id":27,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/products/06-24-22SellingSunset_SN_CE_11-59-32_LOOK_4_0795_PB_MH_468x@2x.jpg?v=1657227878",
+            "https://www.fashionnova.com/cdn/shop/products/06-24-22SellingSunset_SN_CE_11-55-10_LOOK_4_0732_PB_MH_468x@2x.jpg?v=1657227878",
+            "https://www.fashionnova.com/cdn/shop/products/06-07-22Studio3_KJ_RL_11-07-47_49_FNMK145_Brown_17854_PB_468x@2x.jpg?v=1657227878",
+            "https://www.fashionnova.com/cdn/shop/products/06-24-22Studio4_RT_DJ_14-14-39_62_FNMK145_Brown_23965_PLUS_SG_468x@2x.jpg?v=1657227878",
+            "https://www.fashionnova.com/cdn/shop/products/06-07-22Studio3_KJ_RL_11-07-47_49_FNMK145_Brown_17857_PB_468x@2x.jpg?v=1657227878",
+            "https://www.fashionnova.com/cdn/shop/products/06-07-22Studio3_KJ_RL_11-07-47_49_FNMK145_Brown_17863_PB_468x@2x.jpg?v=1657227878",
+            "https://www.fashionnova.com/cdn/shop/products/06-07-22Studio3_KJ_RL_11-07-47_49_FNMK145_Brown_17867_PB_468x@2x.jpg?v=1657227878",
+            "https://www.fashionnova.com/cdn/shop/products/06-24-22Studio4_RT_DJ_14-14-39_62_FNMK145_Brown_23966_PLUS_SG_468x@2x.jpg?v=1657227878"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/products/06-24-22SellingSunset_SN_CE_11-59-32_LOOK_4_0795_PB_MH_468x@2x.jpg?v=1657227878",
+            "newPrice":45000,
+            "oldPrice":55000,
+            "productDetails":[
+            "Model Height: 6'2 Large - Waste size 34",
+            "Big & Tall: Height 6'3 - Waist Size 42",
+            "Available In Brown, Blue, and Black.",
+            "Shell: 65% Polyester 33% Viscose 2% Elastane",
+            "Inseam is 33 ½”, can be tailored",
+            "Imported"
+            ],
+            "productName":"Stretch Slim Trouser - Brown",
+            "productQuestion":"Product Details",
+            "size":[
+            "XL",
+            "L",
+            "M"
+            ]
+        },
+        {
+            "category":"Beauty",
+            "id":12,
+            "images":[
+            "https://www.fashionnova.com/cdn/shop/files/NOVABEAUTYMoisturizingRichGlowLipGloss-Thicc_468x@2x.jpg?v=1684181792",
+            "https://www.fashionnova.com/cdn/shop/products/03-10-22Studio5_SN_09-53-28_1_THICC_0368_web_468x@2x.jpg?v=1684181792",
+            "https://www.fashionnova.com/cdn/shop/products/08-18-21Studio4_SN_11-06-45_5_THICC_1614_KL_KL_468x@2x.jpg?v=1684181792",
+            "https://www.fashionnova.com/cdn/shop/products/01-27-22_THICC_SWATCH_web_468x@2x.jpg?v=1684181792"
+            ],
+            "img":"https://www.fashionnova.com/cdn/shop/files/NOVABEAUTYMoisturizingRichGlowLipGloss-Thicc_468x@2x.jpg?v=1684181792",
+            "newPrice":8000,
+            "oldPrice":15000,
+            "productDetails":"Experience the sensation of an oil, the shine of a gloss, and the cushiony feel and comfort of a balm. The NOVABEAUTY Moisturizing Rich Glow Lip Gloss features a long-wearing formula that gives the appearance of volume and a hydrating glow. Jojoba seed oil nourishes skin while peptides create a silky finish. Swipe over bare lips or add to your favorite NOVABEAUTY lipstick for added luminous shine. Available in 12 cruelty-free vegan shades.",
+            "productName":"NOVABEAUTY Moisturizing Rich Glow Lip Gloss - Thicc",
+            "productQuestion":"Product Details"
+        }
+        ]
+}
+

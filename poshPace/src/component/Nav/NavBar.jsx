@@ -52,7 +52,7 @@ const dispatch = useDispatch()
             {
                 navBars.map((nav, index) => (
                 <div className="px-[30px] text-sm text font-extralight" key={index}>
-                    <Link to={`/FilteredProducts/${nav}`}>
+                    <Link to={`/products/${nav}`}>
                         <button 
                         onClick={() => dispatch(filteredProduct(nav))}
                         >{nav}

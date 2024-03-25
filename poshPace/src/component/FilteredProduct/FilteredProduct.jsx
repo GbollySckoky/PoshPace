@@ -5,24 +5,30 @@ import { GoChevronDown } from "react-icons/go";
 import { CiFilter } from "react-icons/ci";
 import {Link} from "react-router-dom"
 import FilteredProductSingle from './FilteredProductSingle';
+import axios from 'axios'
 const sorts = [
     {
+        id:1,
         name:"SORT BY",
         icon: <GoChevronDown />
     },
     {
+        id:2,
         name:"COLOUR",
         icon: <GoChevronDown />
     },
     {
+        id:3,
         name:"SIZE",
         icon: <GoChevronDown />
     },
     {
+        id:4,
         name:"BRAND",
         icon: <GoChevronDown />
     },
     {
+        id:5,
         name:"PATTERNS",
         icon: <GoChevronDown />
     },
@@ -39,28 +45,51 @@ const links = [
 ]
 
 const FilteredProduct = () => {
-    const [filteredProducts, setFilteredProducts] = useState([])
-    // Get the filtered product state from the Redux store
-    const filteredProduct = useSelector((state) => state.products.filteredProduct);
-    console.log(filteredProduct);
-    
-    // to stop the countinous re-rendring
+    const [products, setProducts] = useState([]) // state that holds the data fetched 
+    const [filteredProducts, setFilteredProducts] = useState([]) // state that holds the data filtered
+    const [isLoading, setIsLoading] = useState(true)
+    const [error, setError] = useState(null)
+
     useEffect(() => {
-        setFilteredProducts(filteredProduct)
-    },[filteredProduct])
-    console.log(filteredProducts)
+        // fetching the products from the api
+        const fetchProducts = async () => {
+            try {
+                const response = await axios.get('http://localhost:4000/products'); // Use axios.get to fetch data
+                console.log(response.data);
+                console.log(response.status);
+                setProducts(response.data)
+                setIsLoading(false)
+            } catch (error) {
+                if(error.response){
+                    setError(error.response.data)
+                    console.log(error.response.data)
+                    console.log(error.response.status)
+                }
+                else{
+                    setError(`Error: ${error.message}`)
+                }
+                setIsLoading(false)
+            }
+        };
 
-    // Get the category parameter from the URL
+        fetchProducts();
+    }, []);
+
+    // Get the category parameter from the URL types of products
     const { category } = useParams();
-    console.log(category);
 
+    // filter Data
+    useEffect(() => {
+        setFilteredProducts(products.filter((product) => product.category === category))
+    },[category, products])
+ 
     return (
         <div>
             <ul 
                 className='flex items-center justify-center bg-fadeblue 
                 text-white py-[15px] text-sm font-[200]'>
-                    {links.map((link, index) => (
-                        <li key={link.index}>
+                    {links.map((link, id) => (
+                        <li key={link.id}>
                             <Link className='px-7'>{link.name}</Link>
                         </li>
                     ))}
@@ -71,7 +100,7 @@ const FilteredProduct = () => {
             </h1>
             <div id='tip' className='flex items-center  justify-center'>
                 {sorts.map((sort) => (
-                    <div key={sort.index}>
+                    <div key={sort.id}>
                         <p>{sort.name}</p>
                         <span className='pl-1'>{sort.icon}</span>
                     </div>
@@ -82,11 +111,17 @@ const FilteredProduct = () => {
                 </div>
             </div>
             <div>
-                {filteredProduct.filter((product) => product.category === category).map((product) => (
+                {isLoading ? ( <p>LOADING...</p> 
+                ):(
+                <div className='grid grid-cols-4 gap-[35px] mt-[50px] w-[80%] mx-auto'>
+                {filteredProducts.map((product) => (
                     <div key={product.id}>
-                        <FilteredProduct product={product} />
+                        <FilteredProductSingle product={product} />
                     </div>
                 ))}
+                </div>
+                )} 
+                {error && ( <div>Error: {error}</div> ) }
             </div>
         </div>
     );

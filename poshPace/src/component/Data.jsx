@@ -21,7 +21,7 @@ const  Products = [
         "Imported",
         "Available In Cream.",
         ],
-        productName: "Mini Bart Graffiti Embroidered Fleece Jogger Set - Brown",
+        productName: " Graffiti Embroidered Fleece Jogger",
         productQuestion:"Product Details",
         size:[
         "L",
@@ -55,7 +55,7 @@ const  Products = [
         "98% Cotton 2% Spandex",
         "Imported",
         ],
-        productName:"Switch Up The Flow Stacked Slim Flare Jeans - Black Wash",
+        productName:" Black Wash Jeans,",
         productQuestion:"Product Details",
         size:[
         "XXL",
@@ -63,42 +63,42 @@ const  Products = [
         "L",
         ]
     },
-    {
-        category:"Men",
-        color:[
-        "grey",
-        "black",
-        ],
-        id:30,
-        images: [
-        "https://www.fashionnova.com/cdn/shop/files/07-05-23Studio7_ID_DJ_9-12AM_8_FNDB241_Grey_24466_MP_468x@2x.jpg?v=1689112422",
-        "https://www.fashionnova.com/cdn/shop/files/07-18-23Studio8_CC_AP_14-41-59_83_FNDB241_Grey_2128_PLUS_MP_468x@2x.jpg?v=1690305338",
-        "https://www.fashionnova.com/cdn/shop/files/07-05-23Studio7_ID_DJ_9-12AM_8_FNDB241_Grey_24464_MP_468x@2x.jpg?v=169030533",
-        "https://www.fashionnova.com/cdn/shop/files/07-05-23Studio7_ID_DJ_9-12AM_8_FNDB241_Grey_24471_MP_468x@2x.jpg?v=",
-        "https://www.fashionnova.com/cdn/shop/files/07-05-23Studio7_ID_DJ_9-12AM_8_FNDB241_Grey_24468_MP_468x@2x.jpg?v=1690305338",
-        "https://www.fashionnova.com/cdn/shop/files/07-18-23Studio8_CC_AP_14-41-31_83_FNDB241_Grey_2121_PLUS_MP_468x@2x.jpg?v=1690305338",
-        "https://www.fashionnova.com/cdn/shop/files/07-18-23Studio8_CC_AP_14-42-25_83_FNDB241_Grey_2132_PLUS_MP_468x@2x.jpg?v=1690305334"
-        ],
-        img:",https://www.fashionnova.com/cdn/shop/files/07-05-23Studio7_ID_DJ_9-12AM_8_FNDB241_Grey_24466_MP_468x@2x.jpg?v=1689112422",
-        newPrice:100000,
-        oldPrice:120000,
-        productDetails:[
-        "Stretch Denim",
-        "Stacked Slim Flare",
-        "Button Closure",
-        "Button Closure",
-        "Zip Fly",
-        "Disclaimer: Due To The Distressing Process, & Wash Process, Each Garment Is Unique.",
-        "100% Cotton",
-        ],
-        productName:"Enduring Dream Slim Stacked Flare Jeans - Grey",
-        productQuestion:"Product Details",
-        size:[
-        "XXL",
-        "XL",
-        "L",
-        ]
-    },
+    
+    //     category:"Men",
+    //     color:[
+    //     "grey",
+    //     "black",
+    //     ],
+    //     id:30,
+    //     images: [
+    //     "https://www.fashionnova.com/cdn/shop/files/07-05-23Studio7_ID_DJ_9-12AM_8_FNDB241_Grey_24466_MP_468x@2x.jpg?v=1689112422",
+    //     "https://www.fashionnova.com/cdn/shop/files/07-18-23Studio8_CC_AP_14-41-59_83_FNDB241_Grey_2128_PLUS_MP_468x@2x.jpg?v=1690305338",
+    //     "https://www.fashionnova.com/cdn/shop/files/07-05-23Studio7_ID_DJ_9-12AM_8_FNDB241_Grey_24464_MP_468x@2x.jpg?v=169030533",
+    //     "https://www.fashionnova.com/cdn/shop/files/07-05-23Studio7_ID_DJ_9-12AM_8_FNDB241_Grey_24471_MP_468x@2x.jpg?v=",
+    //     "https://www.fashionnova.com/cdn/shop/files/07-05-23Studio7_ID_DJ_9-12AM_8_FNDB241_Grey_24468_MP_468x@2x.jpg?v=1690305338",
+    //     "https://www.fashionnova.com/cdn/shop/files/07-18-23Studio8_CC_AP_14-41-31_83_FNDB241_Grey_2121_PLUS_MP_468x@2x.jpg?v=1690305338",
+    //     "https://www.fashionnova.com/cdn/shop/files/07-18-23Studio8_CC_AP_14-42-25_83_FNDB241_Grey_2132_PLUS_MP_468x@2x.jpg?v=1690305334"
+    //     ],
+    //     img:",https://www.fashionnova.com/cdn/shop/files/07-05-23Studio7_ID_DJ_9-12AM_8_FNDB241_Grey_24466_MP_468x@2x.jpg?v=1689112422",
+    //     newPrice:100000,
+    //     oldPrice:120000,
+    //     productDetails:[
+    //     "Stretch Denim",
+    //     "Stacked Slim Flare",
+    //     "Button Closure",
+    //     "Button Closure",
+    //     "Zip Fly",
+    //     "Disclaimer: Due To The Distressing Process, & Wash Process, Each Garment Is Unique.",
+    //     "100% Cotton",
+    //     ],
+    //     productName:"Enduring Dream Slim Stacked Flare Jeans - Grey",
+    //     productQuestion:"Product Details",
+    //     size:[
+    //     "XXL",
+    //     "XL",
+    //     "L",
+    //     ]
+    // },
     {
         category:"Kids",
         color:"pink",
@@ -149,7 +149,7 @@ const  Products = [
         "Screen Print Design",
         "Imported",
         ],
-        productName:"Mini Spongebob Spray Paint Short Set - Yellow",
+        productName:" Spray Paint Short Set - Yellow",
         productQuestion:"Product Details",
         size:[
         "L",
@@ -182,7 +182,7 @@ const  Products = [
         "60% Cotton 40% Polyester",
         "Imported",
         ],
-        productName:"Mini Yarn Dyed Buffalo Plaid Woven - Yellow",
+        productName:" Buffalo Plaid Woven - Yellow",
         productQuestion:"Product Details",
         size:[
         "L",
@@ -206,7 +206,7 @@ const  Products = [
         newPrice:80000,
         oldPrice:100000,
         productDetails:"Cream is a warmer and slightly darker color than off-white. It has a yellow or beige undertone, which gives it a soft and warm appearance. Cream is often used to create a cozy and comfortable atmosphere, and it is often used in bedrooms, living rooms, and other areas where people want to relax",
-        productName:" Ryland Short Sleeve Button Up Shirt - Off White",
+        productName:"Button Up Shirt - Off White",
         productQuestion:"Product Details",
         size:[
         "XL",
@@ -235,8 +235,7 @@ const  Products = [
         "Button And Zipper Closure",
         "Distressed",
         ],
-        productName:"Mini Denim Moto Rip And Repair Jeans - Vintage Wash",
-        productQuestion:"Product Details",
+        productName:"Moto Rip And Repair Jeans ",
         size:[
         "M",
         "S",
@@ -256,7 +255,7 @@ const  Products = [
         "Clasp Closure",
         "Imported",
         ],
-        productName:"No Angel 2 Piece Chain Necklace - Gold",
+        productName:" 2 Piece Chain Necklace - Gold",
         productQuestion:"Product Details",
     },
     {
@@ -293,7 +292,7 @@ const  Products = [
         "Clasp Closure",
         "Imported",
         ],
-        productName:"Inviolable Cross Chain Necklace -Silver",
+        productName:"Cross Chain Necklace -Silver",
         productQuestion:"Product Details"
     },
     {
@@ -318,7 +317,7 @@ const  Products = [
         "100% Cotton",,
         "Imported",
         ],
-        productName:"Mini Unity Girl Short Sleeve Tee - Pink",
+        productName:"Girl Short Sleeve Tee ",
         productQuestion:"Product Details",
         size:[
         "XL",
@@ -341,8 +340,12 @@ const  Products = [
         "Clover Pendants",
         "Imported",
         ],
-        productName:"Iced Multi Clover Bracelet - Gold/Green",
+        productName:" Clover Bracelet ",
         productQuestion:"Product Details",
+        color:[
+            "green",
+            "black"
+        ]
     },
     {
         category:"Kids",
@@ -370,7 +373,7 @@ const  Products = [
         "100% Cotton",
         "Imported",
         ],
-        productName:"Mini We Made History Short Sleeve Tee - Black",
+        productName:"Short Sleeve Tee - Black",
         productQuestion:"Product Details",
         size:[
         "L",
@@ -398,7 +401,7 @@ const  Products = [
         "Lining: 90% Cotton 10% Polyester",
         "Imported",
         ],
-        productName:"NAME: Mini Harvey Washed Faux Leather Cargo Pant - Charcoal",
+        productName:"Faux Leather Cargo Pant - Charcoal",
         productQuestion:"Product Details",
         size:[
         "L",
@@ -474,7 +477,7 @@ const  Products = [
         newPrice:5000,
         oldPrice:8000,
         productDetails:"The NOVABEAUTY Mile High Travel and Storage Case is a travel and  storage solution to safely store all of your essentials from brushes, palettes, lipsticks, and more. The case, made  of textured Vegan Leather, is soft yet structured, and creates a sleek easy- to clean experience for a full glam touch-up on the go. Features six elastic slots that keep your brushes secure and protected when travelling . Makeup not included. Case is 6.5",
-        productName:"NOVABEAUTY Moisturizing Rich Glow Lip Gloss - Tea",
+        productName:" Rich Glow Lip Gloss - Tea",
         productQuestion:"Product Details",
     },
     {
@@ -519,7 +522,7 @@ const  Products = [
         "60% Cotton/ 20% Polyester/20% Rayon",
         "Imported",
         ],
-        productName:"Mini Lily Cargo Mini Skirt - Dark Wash",
+        productName:" Cargo Mini Skirt - Dark Wash",
         productQuestion:"Product Details",
         size:[
         "L",
@@ -544,13 +547,13 @@ const  Products = [
         newPrice:200000,
         oldPrice:300000,
         productDetails:"Product Details",
-        productName:"Show Up Short Sleeve Cuban Shirt - Off White",
+        productName:"Short Sleeve Cuban Shirt - Off White",
         productQuestion:"Product Details",
         size:"offwhite",
     },
     {
         category:"Men",
-        color:"brown",
+        color:"chocolate",
         id:24,
         images:[
         "https://www.fashionnova.com/cdn/shop/products/03-17-23Studio7_BN_DJ_15-26-06_82_ZDF01N310023_Taupe_R_15139_DQ_468x@2x.jpg?v=1679501917",
@@ -588,8 +591,8 @@ const  Products = [
         "https://www.fashionnova.com/cdn/shop/products/10-05-22Studio1_RD_CC_10-33-51_26_FNMK144_Chestnut_8277_PLUS_ES_468x@2x.jpg?v=1665007072",
         ],
         img:"https://www.fashionnova.com/cdn/shop/products/10-04-22Studio5_KJ_DJ_09-41-26_1_FNMK144_Chestnut_P_3389_JB_468x@2x.jpg?v=1664916046",
-        newPrice:150000,
-        oldPrice:200000,
+        newPrice:15000,
+        oldPrice:20000,
         productDetails:[
         "Model Height: 6'1 Wearing Large",
         "Big & Tall: Height 6'3 - Wearing XXXL",
@@ -598,7 +601,7 @@ const  Products = [
         "Front Pockets",
         "Imported",
         ],
-        productName:"The Modern Stretch Suit Jacket - Chestnut",
+        productName:" Stretch Suit Jacket - Chestnut",
         productQuestion:"Product Details",
         size:[
         "XXXL",
@@ -609,7 +612,7 @@ const  Products = [
     },
     {
         category:"Men",
-        color:"chocolate",
+        color:"brown",
         id:25,
         images:[
         "https://www.fashionnova.com/cdn/shop/products/03-17-23Studio7_BN_DJ_15-09-57_81_ZDF01N310023_Chocolate_R_8104_MP_468x@2x.jpg?v=1679444471",
@@ -630,7 +633,7 @@ const  Products = [
         "92% Micro Modal, 8% Elastane",
         "Imported",
         ],
-        productName:"Novamen Modal Boxer Brief - Chocolate",
+        productName:" Boxer Brief - Chocolate",
         productQuestion:"Product Details",
         size:[
         "XL",
@@ -685,8 +688,8 @@ const  Products = [
         "https://www.fashionnova.com/cdn/shop/files/06-12-23Studio8_KF_AP_10-02-56_16_FNMK144_Hunter_14522_PLUS_DQ_468x@2x.jpg?v=1687543278",
         ],
         img:"https://www.fashionnova.com/cdn/shop/files/06-16-23Studio7_DJ_RD_1-04PM_39_FNMK144_Hunter_11500_CM_468x@2x.jpg?v=1687543278",
-        newprice:400000,
-        oldprice:500000,
+        newPrice:2500,
+        oldprice:5000,
         productDetails:[
         "Available In Hunter.",
         "Pointed Lapels",
@@ -695,7 +698,7 @@ const  Products = [
         "Shell 65% Polyester 33% Viscose 2% Spandex Lining 100% Polyester",
         "Imported",
         ],
-        productName:"The Modern Stretch Suit Jacket - Hunter",
+        productName:" Stretch Suit Jacket - Hunter",
         productQuestion:"Product Details",
         size:[
         "XL",
@@ -761,7 +764,7 @@ const  Products = [
         "Inseam is 33 ½”, can be tailored",
         "Imported",
         ],
-        productName:"The Modern Stretch Slim Trouser - Brown",
+        productName:"Stretch Slim Trouser - Brown",
         productQuestion:"Product Details",
         size:[
         "XL",
